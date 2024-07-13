@@ -1,0 +1,1 @@
+MongoDB queries to display product details based on the requirement
